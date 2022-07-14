@@ -1,1 +1,1 @@
-Edicion del reame
+readme edition 
